@@ -1,0 +1,21 @@
+body {
+    color: rgb(231, 24, 138);
+    font-size: 25px;
+    font-weight: 700;
+}
+
+h3{
+    text-decoration: underline;
+    font-style: italic;
+    font-family: serif; /*serif is the default font*/
+}
+
+
+.mydiv{
+    background-color: #000;
+    border: 1px solid #468c11;
+    color: yellow;
+    padding: 11px 20px;
+    font-size: 15px; 
+    cursor: pointer;
+}
